@@ -1,7 +1,5 @@
 # IRIS – Integrated Recursive Intelligence System
 
-![IRIS Logo](./assets/iris_logo.svg) <!-- opcional: si tienes logo -->
-
 ---
 
 ## Vision
