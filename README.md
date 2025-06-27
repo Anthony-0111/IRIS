@@ -84,7 +84,7 @@ Provide developers with a framework to build advanced, adaptive AI systems that:
 Clone the repository:
 
 ```bash
-git clone https://github.com/Anthony-011/IRIS.git
+git clone https://github.com/Anthony-0111/IRIS.git
 cd iris
 mkdir build && cd build
 cmake ..
