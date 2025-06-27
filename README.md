@@ -87,5 +87,5 @@ cd iris
 mkdir build && cd build
 cmake ..
 make
-./iris
+./IRIS
 
